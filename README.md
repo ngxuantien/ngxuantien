@@ -20,13 +20,12 @@ I am a Full-stack Developer based in Ho Chi Minh City, Vietnam, who turns comple
   <tr>
     <td valign="top" width="50%">
       <h3>Backend &amp; Data</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mongodb,redis,kafka,rabbitmq&perline=4" alt="Backend and data tools" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis" alt="Backend and data tools" />
       <ul>
         <li>ASP.NET Core &amp; Web API</li>
         <li>C# &amp; Entity Framework Core</li>
         <li>SQL Server, PostgreSQL &amp; database design</li>
         <li>MongoDB &amp; Redis caching</li>
-        <li>Messaging with Kafka &amp; RabbitMQ</li>
         <li>REST APIs &amp; OpenAPI / Swagger</li>
         <li>Authentication &amp; authorization</li>
         <li>Clean Architecture principles</li>
@@ -34,7 +33,7 @@ I am a Full-stack Developer based in Ho Chi Minh City, Vietnam, who turns comple
     </td>
     <td valign="top" width="50%">
       <h3>Frontend &amp; Experience</h3>
-      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&perline=4" alt="Frontend tools" />
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" alt="Frontend tools" />
       <ul>
         <li>Angular &amp; TypeScript</li>
         <li>RxJS &amp; reactive programming</li>
