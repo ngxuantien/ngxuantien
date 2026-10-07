@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="100%" role="img" aria-labelledby="wf-title wf-desc">
+<title id="wf-title">How I like to work</title>
+<desc id="wf-desc">Understand the user problem, design a simple architecture, build small testable features, review and document, ship with confidence.</desc>
+<defs>
+<linearGradient id="prog" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="900" y2="0"><stop offset="0" stop-color="#7B5CFF"/><stop offset="1" stop-color="#FF3D5A"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="999" height="169" rx="16" fill="#0D1117" stroke="#30363D"/>
+<line x1="100" y1="64" x2="900" y2="64" stroke="#FFFFFF" stroke-opacity=".18" stroke-dasharray="2 5"/>
+<line x1="100" y1="64" x2="100" y2="64" stroke="url(#prog)" stroke-width="2.5" stroke-linecap="round"><animate attributeName="x2" dur="8s" repeatCount="indefinite" keyTimes="0;.75;.95;1" values="100;900;900;100"/></line>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" text-anchor="middle">
+<circle cx="100" cy="64" r="15" fill="#7B5CFF" stroke="#7B5CFF" stroke-opacity=".5" stroke-width="4"/>
+<text x="100" y="68" fill="#FFFFFF">01</text>
+<circle cx="300" cy="64" r="15" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.1875;.95" values="#161B22;#A355D6;#161B22"/></circle>
+<text x="300" y="68" fill="#8B949E"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.1875;.95" values="#8B949E;#FFFFFF;#8B949E"/>02</text>
+<circle cx="500" cy="64" r="15" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.375;.95" values="#161B22;#BD4FB0;#161B22"/></circle>
+<text x="500" y="68" fill="#8B949E"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.375;.95" values="#8B949E;#FFFFFF;#8B949E"/>03</text>
+<circle cx="700" cy="64" r="15" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.5625;.95" values="#161B22;#DE4785;#161B22"/></circle>
+<text x="700" y="68" fill="#8B949E"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.5625;.95" values="#8B949E;#FFFFFF;#8B949E"/>04</text>
+<circle cx="900" cy="64" r="15" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.75;.95" values="#161B22;#FF3D5A;#161B22"/></circle>
+<text x="900" y="68" fill="#8B949E"><animate attributeName="fill" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.75;.95" values="#8B949E;#FFFFFF;#8B949E"/>05</text>
+<circle cx="900" cy="64" r="15" fill="none" stroke="#FF3D5A" stroke-width="1.5" opacity="0"><animate attributeName="r" dur="8s" repeatCount="indefinite" keyTimes="0;.75;.9;1" values="15;15;30;30"/><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;.75;.7501;.9;1" values="0;0;.8;0;0"/></circle>
+</g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" text-anchor="middle">
+<g font-size="15" font-weight="700" fill="#E6EDF3">
+<text x="100" y="114">Understand</text>
+<text x="300" y="114">Design</text>
+<text x="500" y="114">Build</text>
+<text x="700" y="114">Review</text>
+<text x="900" y="114">Ship</text>
+</g>
+<g font-size="12" fill="#8B949E">
+<text x="100" y="134">the user problem</text>
+<text x="300" y="134">simple architecture</text>
+<text x="500" y="134">small, testable features</text>
+<text x="700" y="134">refine &amp; document</text>
+<text x="900" y="134">with confidence</text>
+</g>
+</g>
+</svg>
