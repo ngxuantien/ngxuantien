@@ -68,7 +68,3 @@ I am a Full-stack Developer based in Ho Chi Minh City, Vietnam, who turns comple
 - Dockerized development environments
 - Automated testing and CI/CD workflows
 - Cloud-ready application design
-
-## Contribution Activity
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=ngxuantien&theme=dark&background=0D1117&border=30363D&ring=7B5CFF&fire=FF3D5A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF3D5A&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak for ngxuantien" /></p>
